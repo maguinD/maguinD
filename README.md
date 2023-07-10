@@ -2,7 +2,6 @@
 
 <!--
 **maguinD/maguinD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m currently improve my skills for become fullstask developer, UX/UI graphic  and graphic designer
+### where to find me
+-[LinkedIn](www.linkedin.com/in/maguin-daza-654716a3)
