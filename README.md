@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m currently improve my skills for become fullstask developer, UX/UI graphic  and graphic designer
+I’m currently improve my skills for become fullstask developer, UX/UI designer  and graphic designer
 ### where to find me
 -[LinkedIn](www.linkedin.com/in/maguin-daza-654716a3)
